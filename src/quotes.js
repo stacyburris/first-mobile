@@ -32,8 +32,8 @@ export default function Quotes() {
       marginBottom: '10px',
     },
     img: {
-      width: 185,
-      height: 230,
+      width: 140,
+      height: 190,
       //marginBottom: '10px',
     },
     button: {

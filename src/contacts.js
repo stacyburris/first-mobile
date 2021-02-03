@@ -44,7 +44,7 @@ export default function ContactDisplay() {
           <Button
             style={styles.button}
             onPress={showContacts}
-            title="show contacts"
+            title="share with friends"
 
           ></Button>
         </Text >
